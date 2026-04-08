@@ -1,4 +1,3 @@
-[All links related to the datasets, project code and presentation are below.]
 # AIMS Hackathon - Light Carriers
 This repository contains research and development by Gongpals Team under the project named Light Carriers, which provides data-driven solutions addressing modern slavery detection, analysis, and prevention. Our project aims to leverage data analytics and visualization to combat one of the world's most pressing human rights challenges.
 Mission
@@ -279,10 +278,10 @@ This comprehensive data-based solution transforms complex modern slavery complia
 Location: [link to video](https://www.youtube.com/watch?v=yjOPOFmy9q8)
 
 # 5. Datasets
-Location: [/datasets](https://github.com/hieuvu121/dataset)
+Location: [/datasets](https://github.com/KaylinLe05/AIMS---Hackathon-2025/tree/main/dataset-main)
 
 # 6. Project Code
-Location: [/project](https://github.com/hieuvu121/project)
+Location: [/project](https://github.com/KaylinLe05/AIMS---Hackathon-2025/tree/main/AIMS-hackathon-main)
 
 # 7. Additional docs 
 Location: [/docs](https://docs.google.com/document/d/1J4SoxbSQwzZsAuCLYhQRMdBqm_6Oyq9A6mO6pdSrsMY/edit?usp=sharing)
