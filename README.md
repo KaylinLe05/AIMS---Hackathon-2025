@@ -1,9 +1,3 @@
-# Gongpals Team: 
-
-- Son Tung Dang
-- Ngoc Gia Phong Pham
-- Phuong Anh Le
-- Minh Hieu	Vu
 
 # AIMS Hackathon - Light Carriers
 This repository contains research and development by Gongpals Team under the project named Light Carriers, which provides data-driven solutions addressing modern slavery detection, analysis, and prevention. Our project aims to leverage data analytics and visualization to combat one of the world's most pressing human rights challenges.
