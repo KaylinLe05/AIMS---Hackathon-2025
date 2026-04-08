@@ -1,0 +1,31 @@
+Region,State,Role,NonCompliancePercent,CompliancePercent
+Mornington Peninsula + Yarra Valley,VIC,Grower,54,46
+Mornington Peninsula + Yarra Valley,VIC,Labour hire,100,0
+Riverina,NSW,Grower,57,43
+Riverina,NSW,Labour hire,83,17
+Sunraysia (Mildura),VIC,Grower,31,69
+Sunraysia (Mildura),VIC,Labour hire,83,17
+Shepparton,VIC,Grower,36,64
+Shepparton,VIC,Labour hire,79,21
+Coffs Harbour and Grafton,NSW,Grower,30,70
+Coffs Harbour and Grafton,NSW,Labour hire,74,26
+Riverland,SA,Grower,18,82
+Riverland,SA,Labour hire,92,8
+Adelaide and Adelaide Hills,SA,Grower,22,78
+Adelaide and Adelaide Hills,SA,Labour hire,92,8
+Whitsunday Coast,QLD,Grower,43,57
+Whitsunday Coast,QLD,Labour hire,60,40
+South-West WA,WA,Grower,47,53
+South-West WA,WA,Labour hire,0,100
+North and Northwest Tasmania,TAS,Grower,36,64
+North and Northwest Tasmania,TAS,Labour hire,75,25
+Lockyer Valley,QLD,Grower,16,84
+Lockyer Valley,QLD,Labour hire,73,27
+Sunshine Coast,QLD,Grower,19,81
+Sunshine Coast,QLD,Labour hire,70,30
+Stanthorpe,QLD,Grower,18,82
+Stanthorpe,QLD,Labour hire,75,25
+Wide Bay,QLD,Grower,9,91
+Wide Bay,QLD,Labour hire,33,67
+Moreton Bay,QLD,Grower,4,96
+Moreton Bay,QLD,Labour hire,13,87
